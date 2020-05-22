@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-#   ScorpBot quote database output tool for cs188
-#	Written by Tate Frost / alleZSoyez
+# ScorpBot quote database output tool for cs188
+# Written by Tate Frost / alleZSoyez
 
 # setup
 import sqlite3
